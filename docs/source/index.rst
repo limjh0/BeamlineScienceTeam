@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
-===================================
+빔라인과학팀 홈페이지
+===================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`포항가속기연구소 <http://pal.postech.ac.kr>`_ 4GSR가속기연구단 **빔라인과학팀** 홈페이지 입니다.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+주요 일정
+--------
 
 Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   
+   business_trip
+   leave
+   purchase
+   shuttle_time_table
