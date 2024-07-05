@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = '빔라인과학팀'
+project = '빔라인과학팀 게시판'
 copyright = '2024, 포항가속기연구소'
 author = '빔라인과학팀'
 
