@@ -20,7 +20,7 @@
    합니다.
 
 .. image:: card.png 
-    :width: 600px
+    :width: 300px
     :align: center
 
 5. | **숙박비 정산** 은 위의 카드를 사용해서 *출장 가기 전에 미리
