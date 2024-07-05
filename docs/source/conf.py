@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '빔라인과학팀'
+copyright = '2024, 포항가속기연구소'
+author = '빔라인과학팀'
 
 release = '0.1'
 version = '0.1.0'
