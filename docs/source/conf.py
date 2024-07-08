@@ -6,8 +6,8 @@ project = '빔라인과학팀 게시판'
 copyright = '2024, 포항가속기연구소'
 author = '빔라인과학팀'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.0'
 
 # -- General configuration
 
