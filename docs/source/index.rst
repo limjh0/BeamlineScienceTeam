@@ -13,6 +13,7 @@
 
 .. toctree::
    
+   grant
    business_trip
    leave
    purchase
