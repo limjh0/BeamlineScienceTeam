@@ -17,4 +17,5 @@
    business_trip
    leave
    purchase
+   consulting_fee
    shuttle_time_table
