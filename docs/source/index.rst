@@ -25,3 +25,4 @@
    purchase
    consulting_fee
    shuttle_time_table
+   printer_install
