@@ -26,4 +26,4 @@
    consulting_fee
    shuttle_time_table
    printer_install
-   타부서업무분장
+   기타
